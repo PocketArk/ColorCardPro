@@ -1,5 +1,5 @@
 {
-  "BundleVersion": 2,
+  "BundleVersion": 5,
   "App": [
     {
       "Name": "Dancing Girl MMD",
